@@ -1,16 +1,16 @@
 import React from 'react';
 import { HeartIcon, CameraIcon } from 'lucide-react';
 const photos = [{
-  url: '/public/1.jpg',
+  url: '/1.jpg',
   caption: 'Primeiro Beijo'
 }, {
-  url: '/public/2.jpg',
+  url: '/2.jpg',
   caption: 'Primeira vez na sua casa'
 }, {
-  url: '/public/3.jpg',
+  url: '/3.jpg',
   caption: 'Passeio com sua Familia'
 }, {
-  url: '/public/4.jpg',
+  url: '/4.jpg',
   caption: 'foto preferida'
 }];
 export function PhotoGallery() {

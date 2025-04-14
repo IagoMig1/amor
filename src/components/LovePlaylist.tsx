@@ -5,26 +5,26 @@ const songs = [
   {
     title: 'Ai Calica',
     artist: 'Puma pjl',
-    cover: '/public/puma.jpg',
-    audio: '/public/calica.mp3'
+    cover: '/puma.jpg',
+    audio: '/calica.mp3'
   },
   {
     title: 'Ethereal',
     artist: 'Txmy',
-    cover: '/public/eth.jpeg',
-    audio: '/public/ethereal.mp4'
+    cover: '/eth.jpeg',
+    audio: '/ethereal.mp4'
   },
   {
     title: 'Just the Two of Us',
     artist: 'Bill Withers, Grover Washington, Jr.',
-    cover: '/public/just.jpeg',
-    audio: '/public/just.mp3'
+    cover: '/just.jpeg',
+    audio: '/just.mp3'
   },
   {
     title: 'Tardes que nunca acabam',
     artist: 'Baco Exu do Blues',
-    cover: '/public/tardes.jpeg',
-    audio: '/public/acabam.mp3'
+    cover: '/tardes.jpeg',
+    audio: '/acabam.mp3'
   }
 ];
 

@@ -2,23 +2,23 @@ import React, { useEffect, useRef } from 'react';
 import { MapPinIcon } from 'lucide-react';
 const cities = [{
   name: 'Caçapava',
-  image: '/public/caçapava.jpg',
+  image: '/caçapava.jpg',
   description: ''
 }, {
   name: 'São José dos Campos',
-  image: '/public/sjc.jpg',
+  image: '/sjc.jpg',
   description: ''
 }, {
   name: 'São Paulo',
-  image: '/public/sp.jpg',
+  image: '/sp.jpg',
   description: ''
 }, {
   name: 'Curitiba',
-  image: '/public/cwb.png',
+  image: '/cwb.png',
   description: ''
 }, {
   name: 'Joinville',
-  image: '/public/jlle.jpeg',
+  image: '/jlle.jpeg',
   description: ''
 }];
 export function Journey() {
