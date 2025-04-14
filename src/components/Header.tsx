@@ -17,7 +17,7 @@ export function Header() {
       animationDelay: '2.5s',
       animationFillMode: 'forwards'
     }}>
-        Uma história de amor para sempre...
+        
       </p>
     </header>;
 }

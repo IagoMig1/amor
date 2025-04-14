@@ -15,7 +15,7 @@ export function Timeline() {
           </h3>
           <p className="text-2xl font-bold gradient-text">17/08/2023</p>
           <p className="mt-3 text-gray-600">
-            O dia em que o destino nos uniu e nossas vidas mudaram para sempre
+            
           </p>
         </div>
         <div className="bg-white p-8 rounded-lg shadow-lg w-full md:w-72 text-center transform transition-all duration-500 hover:scale-105 hover:shadow-2xl">
@@ -27,9 +27,9 @@ export function Timeline() {
           <h3 className="text-xl font-bold text-gray-800 mb-2">
             Quando começamos a namorar
           </h3>
-          <p className="text-2xl font-bold gradient-text">11/11/2023</p>
+          <p className="text-2xl font-bold gradient-text">11/12/2023</p>
           <p className="mt-3 text-gray-600">
-            O dia em que oficialmente começamos nossa jornada juntos
+           
           </p>
         </div>
       </div>
